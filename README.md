@@ -1,2 +1,2 @@
-# Lossless-Image-Compression-Using-MATLAB
+# Lossless-Image-Compression
 Lossless image compression using MATLAB
