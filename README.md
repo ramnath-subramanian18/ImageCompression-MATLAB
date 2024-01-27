@@ -1,2 +1,1 @@
-# Lossless-Image-Compression
-Lossless image compression using MATLAB
+This repository contains MATLAB code for lossless image compression methods.
